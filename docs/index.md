@@ -5,7 +5,7 @@ Welcome to the BigDawg IE Bank Application
 This project focuses on delivering a secure, scalable, and user-friendly banking application with features such as account management, money transfers, and admin controls.
 
 ## Functional and Non-Functional requirements
-- [Cloud Architect](./Requirements.md)
+- [Requirements](./Requirements.md)
 
 ## Role Documentation
 ### Product Owner
